@@ -5,3 +5,5 @@ This is one half creating a useful discord bot for myself and one half learning 
 
 DEPENDENCIES
 You will need Gradle to build this. You will also need somewhere persistent to run this, which is typical for Discord bots. The intent is for this to use an on-disk embedded database, so all of your information will be kept alive when/if it shuts down.
+
+TEST EDIT
